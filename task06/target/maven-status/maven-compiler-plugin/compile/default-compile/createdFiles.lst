@@ -1,0 +1,11 @@
+com\task06\dto\Response$ResponseBuilder.class
+com\task06\dto\Response.class
+com\task06\model\Configuration$ConfigurationBuilder.class
+com\task06\model\AuditUpdatedRecord.class
+com\task06\model\AuditCreatedRecord$AuditCreatedRecordBuilder.class
+com\task06\AuditProducer.class
+com\task06\dto\ConfigurationData.class
+com\task06\dto\ConfigurationData$ConfigurationDataBuilder.class
+com\task06\model\AuditCreatedRecord.class
+com\task06\model\Configuration.class
+com\task06\model\AuditUpdatedRecord$AuditUpdatedRecordBuilder.class
